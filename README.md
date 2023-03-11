@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
 
-  * Full-time lead developer @ encrypted storage company
+  * Lead developer @ encrypted storage company
   * Various business ideas in my free time
 
 - 🌱 I’m currently learning ...

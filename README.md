@@ -2,20 +2,20 @@
 
 - 🔭 I’m currently working on ...
 
-* Full-time lead developer @ encrypted storage company
-* Various business ideas in my free time
+  * Full-time lead developer @ encrypted storage company
+  * Various business ideas in my free time
 
 - 🌱 I’m currently learning ...
 
-* Golang
-* Machine Learning
-* Maths
-* Turkish
-* ChatGPT novel
+  * Golang
+  * Machine Learning
+  * Maths
+  * Turkish
+  * ChatGPT novel
 
 - 📫 How to reach me: ...
 
-* rustycode#4194
+  * rustycode#4194
 
 <!--
 **rptr/rptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

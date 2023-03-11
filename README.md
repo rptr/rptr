@@ -1,3 +1,2 @@
-- 📫 How to reach me: ...
-
+- 📫 How to reach me:
   * rustycode#4194

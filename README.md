@@ -1,18 +1,5 @@
 ### ~
 
-- 🔭 I’m currently working on ...
-
-  * Lead developer @ encrypted storage company
-  * Various business ideas in my free time
-
-- 🌱 I’m currently learning ...
-
-  * Golang
-  * Machine Learning
-  * Maths
-  * Turkish
-  * ChatGPT novel
-
 - 📫 How to reach me: ...
 
   * rustycode#4194

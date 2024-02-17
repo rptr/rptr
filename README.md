@@ -1,2 +1,2 @@
 - 📫 How to reach me:
-  * rustycode#4194
+  * qirate on Discord

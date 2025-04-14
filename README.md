@@ -7,3 +7,6 @@
   * https://github.com/rptr/feeder-AI
   * https://github.com/rptr/deluge-ai
   * https://github.com/rptr/vim-squirrel
+
+- Blender
+  * https://github.com/rptr/blender-cactus-export
